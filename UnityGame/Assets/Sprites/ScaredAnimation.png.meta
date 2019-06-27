@@ -1,0 +1,1160 @@
+fileFormatVersion: 2
+guid: 7155ec46801ea0041ae63ed020d53752
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ScaredAnimation_0
+    21300002: ScaredAnimation_1
+    21300004: ScaredAnimation_2
+    21300006: ScaredAnimation_3
+    21300008: ScaredAnimation_4
+    21300010: ScaredAnimation_5
+    21300012: ScaredAnimation_6
+    21300014: ScaredAnimation_7
+    21300016: ScaredAnimation_8
+    21300018: ScaredAnimation_9
+    21300020: ScaredAnimation_10
+    21300022: ScaredAnimation_11
+    21300024: ScaredAnimation_12
+    21300026: ScaredAnimation_13
+    21300028: ScaredAnimation_14
+    21300030: ScaredAnimation_15
+    21300032: ScaredAnimation_16
+    21300034: ScaredAnimation_17
+    21300036: ScaredAnimation_18
+    21300038: ScaredAnimation_19
+    21300040: ScaredAnimation_20
+    21300042: ScaredAnimation_21
+    21300044: ScaredAnimation_22
+    21300046: ScaredAnimation_23
+    21300048: ScaredAnimation_24
+    21300050: ScaredAnimation_25
+    21300052: ScaredAnimation_26
+    21300054: ScaredAnimation_27
+    21300056: ScaredAnimation_28
+    21300058: ScaredAnimation_29
+    21300060: ScaredAnimation_30
+    21300062: ScaredAnimation_31
+    21300064: ScaredAnimation_32
+    21300066: ScaredAnimation_33
+    21300068: ScaredAnimation_34
+    21300070: ScaredAnimation_35
+    21300072: ScaredAnimation_36
+    21300074: ScaredAnimation_37
+    21300076: ScaredAnimation_38
+    21300078: ScaredAnimation_39
+    21300080: ScaredAnimation_40
+    21300082: ScaredAnimation_41
+    21300084: ScaredAnimation_42
+    21300086: ScaredAnimation_43
+    21300088: ScaredAnimation_44
+    21300090: ScaredAnimation_45
+    21300092: ScaredAnimation_46
+    21300094: ScaredAnimation_47
+    21300096: ScaredAnimation_48
+    21300098: ScaredAnimation_49
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ScaredAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3201
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ac9dbffe3d48e4d88b7e5b4d4d91c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3201
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0daca658a73f4bf4bad2fb37f4237938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3201
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43a5a7868abb584cbfcfc301b3c7296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3201
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec71e29e908fb2e428b259a86e97a672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3201
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe7308de274ee8419e42ce2ba193f42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3201
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da4a03bd2a1f2345ae4aca4bdb3677b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3201
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5c3cd7a7a21b04b9635899c1acae62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3201
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c65d2dadf94dad45baf193a03a7696a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3201
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d065cbbca860341a9f209c3af352bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 3201
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e2cbae4a7f345418d809293231659e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2401
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e9baa88681c164db2920b4efd8830c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2401
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaff41096375cf47a99514bfcab0f36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2401
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e64db64ccd51414bb40bb43cf954c02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2401
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd816e9a23fa28845aa012c1e520ac38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2401
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679e07286b29c0a479c0434a3d5de20c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2401
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7923aa57028dfce4dae474cf58126e2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2401
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b99cd58d1773d543964640018e03c90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2401
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afba1da374a31f14fabf6209847a045e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2401
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b8f32fbef286549ae26a6641549813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 2401
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3f2531eef62e04aaf9e48bad9e27a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1601
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b3a66af42e5cf44806879f05a288ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1601
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8785db5f047d84d8c1b657ecbf7eb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1601
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bd546fb18b88944b04a4dce4f70800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1601
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebac880fb12cd2046985361179f8fbb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1601
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7510e6a8c17cb04aba46575e473ea50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_25
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1601
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf34efb75b0400844b15cc1a376c298e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_26
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1601
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0146b3c16ad9e4e41a6c1455b345a5e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_27
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1601
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604c5752b656ff349a1faf7e8c1d953d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_28
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1601
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471f535f642513e449f539a79e57751f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_29
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1601
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29932fa17ad8ac44893659aa1cfbc3de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 801
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9d2a06746bddb4db1926c7cb93e4ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 801
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553a931eb69d1e04ca905ef90e0320e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_32
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 801
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bd0994cec525c4c8de4e8da7a5a26c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_33
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 801
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738da3555917d78499ae215a2d787aa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_34
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 801
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f243032c785ef44383435d5a14ad91e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_35
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 801
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270efa4ba5472a64192e83f712688711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_36
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 801
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536ae81980ef5f146bc2141d2fe04bca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_37
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 801
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0a619babf51524280caca47f207b25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_38
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 801
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6657fc3b802e9242ace63841e24b641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_39
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 801
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f63ea2a7a5054b48a8ff4e2a45d9837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d503e0cf048274a804773ba95049bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d623406502a1b942b25cb243a88304d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_42
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa769d05c2c14f46ab6d600d1c068fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_43
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec508300abeca94680fe8d8d54e0d23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_44
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526caec9b576c764189d1dcc9b9506b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_45
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b8f5ef7d6848041a144d05be2a7115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_46
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398140b4f348de540bfee68b92f1a7a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_47
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9395f7f03dc30734ea2145930e317bb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_48
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f815d4805d266bb4eb242323490a8be0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaredAnimation_49
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb08757a1d42449429e7f1ff341376ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5c3d254a2c9247c4690e8f1c2bfb5d26
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

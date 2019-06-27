@@ -1,1 +1,3 @@
-# GermDestroyer
+# handwashing
+
+Handwashing game
