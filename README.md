@@ -1,3 +1,4 @@
-# handwashing
-
-Handwashing game
+# Germ Destroyer
+Washing hands is important for public health as it prevents spreading germs to other people. One of the most important factors in cleaning hands is the hand washing duration. However, people mostly do not wash their hands for a long enough time leading to infections and diseases for themselves and others. To counter this, we present "Germ Destroyer", a system consisting of a sensing device which can be mounted on the water tap and a mobile application providing gameful feedback to encourage users to meet the recommended duration. In the mobile application, users kill germs and collect points by washing their hands. Through a laboratory study (N=14) and a 10-day in-the-wild study (363 hand washing sessions), we found that Germ Destroyer enhances the enjoyment of hand washing, reduces the perceived hand washing duration, almost doubles the actual hand washing duration, and has the potential to reduce the risk of infection.
+# Contact
+Please get in touch via mail: maximilian.altmeyer [at] dfki.de
